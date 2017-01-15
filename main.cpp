@@ -15,6 +15,6 @@ int main(int argc, char *argv[])
             break;
     }while(true);
     
-    // изменения в файле для создания нового коммита)
+    cout << "Bye, bye!" << endl;
     return 0;
 }
