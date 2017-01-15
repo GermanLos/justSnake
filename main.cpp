@@ -14,6 +14,7 @@ int main(int argc, char *argv[])
         if(!w.snake.checkAlive())
             break;
     }while(true);
-
+    
+    // изменения в файле для создания нового коммита)
     return 0;
 }
